@@ -1,0 +1,16 @@
+﻿<Page x:Class="_481.IDSGN"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_481"
+        mc:Ignorable="d"
+        Title="IDSGN" Height="450" Width="800">
+    <Grid>
+        <Button Background="#4D4D4D" Foreground="White" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="82,38,0,0" Click="Back_Click"/>
+        <Button Background="#4D4D4D" Foreground="White" Content="Join" HorizontalAlignment="Left" Margin="157,38,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="150" Margin="82,58,0,0" TextWrapping="Wrap" Text="Industrial Design Club&#xA;IDSGN&#xA;&#xA;Have you ever had an amazing idea for a design that you wanted to bring to life, but lacked the tools or skills to make it happen? The Industrial Design Club provides an opportunity for students from all faculties to be immersed in an inclusive community with a creative outlet centered on industrial design. Through the use of on-campus and external production facilities, members will be able to design unique items that can be brought to reality in a matter of days. The Industrial Design club brings awareness to unique forms of production and design that otherwise may not be utilized, as well as promotes interdisciplinary collaboration. We will strive to strengthen members' creativity and introduce them to diverse methods of manufacturing, such as CNC machining, laser cutting, and vacuum forming.&#xA;&#xA;Tags:&#xA;Engineering" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,208,0,0" TextWrapping="Wrap" Text="Reviews&#xA;&#xA;Anonymous: Good!&#xA;5/5" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,308,0,0" TextWrapping="Wrap" Text="Related Clubs" VerticalAlignment="Top" Width="650"/>
+    </Grid>
+</Page>

@@ -1,0 +1,46 @@
+﻿<Window x:Class="_481.Home2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_481"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Height="80" VerticalAlignment="Top" Width="710" Orientation="Horizontal" Margin="82,0,0,0">
+            <Button Content="Club Finder" Width="185" Background="White" Margin="0,0,0,52" Height="28"/>
+            <Button Content="Calendar" Width="185" Background="White" Margin="0,0,0,52"/>
+            <Button Content="Event Finder" Width="185" Background="White" Margin="0,0,0,52"/>
+            <Button Content="Settings" Width="156" Background="White" Margin="0,0,0,52"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="200" VerticalAlignment="Top" Width="110" Margin="0,28,0,0">
+            <Label Content="Classes" Margin="0,0,39.4,0"/>
+            <Button Content="CPSC 481" Height="28" Background="White" Margin="0,0,39.4,0" />
+            <Button Content="CPSC 525" Height="28" Background="White" Margin="0,0,39.4,0"/>
+            <Button Content="GRST 323" Height="28" Background="White" Margin="0,0,39.4,0"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="214" Margin="0,205,0,0" VerticalAlignment="Top" Width="115">
+            <Label Content="Clubs" Height="30" Margin="0,0,40.4,0" RenderTransformOrigin="0.5,0.5">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-1.622"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Button Content="CSUS" Height="28" Background="White" Margin="0,0,44.2,0"/>
+            <Button Content="CPC" Height="28" Background="White" Margin="0,0,44.2,0"/>
+            <Button Content="ISC" Height="28" Background="White" Margin="0,0,44.2,0"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="382" Margin="737,28,0,0" VerticalAlignment="Top" Width="55">
+            <Label Content="Friends" Margin="-5,0,-0.8,0" FontSize="14"/>
+        </StackPanel>
+        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="32" Margin="744,51,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.469,0.006"/>
+        <TextBox HorizontalAlignment="Left" Height="376" Margin="82,34,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="650"/>
+        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="32" Margin="744,88,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.469,0.006"/>
+        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="32" Margin="744,125,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.469,0.006"/>
+        <Button Content=">" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Height="28" Background="White"/>
+    </Grid>
+</Window>

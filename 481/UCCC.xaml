@@ -1,0 +1,16 @@
+﻿<Page x:Class="_481.UCCC"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_481"
+        mc:Ignorable="d"
+        Title="UCCC" Height="450" Width="800">
+    <Grid>
+        <Button Background="#4D4D4D" Foreground="White" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="82,38,0,0" Click="Back_Click"/>
+        <Button Background="#4D4D4D" Foreground="White" Content="Join" HorizontalAlignment="Left" Margin="157,38,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="150" Margin="82,58,0,0" TextWrapping="Wrap" Text="University of Calgary Chess Club&#xA;UCCC&#xA;&#xA;The UCCC is geared towards promoting the sport of chess among all demographics, from beginner to master. Our objective is to assist fellow enthusiasts and players to hone their chess skills and continue to reach new peaks of excellence.&#xA;&#xA;Tags:&#xA;Hobby/Interest" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,208,0,0" TextWrapping="Wrap" Text="Reviews&#xA;&#xA;Anonymous: Queens gambit&#xA;5/5" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,308,0,0" TextWrapping="Wrap" Text="Related Clubs" VerticalAlignment="Top" Width="650"/>
+    </Grid>
+</Page>

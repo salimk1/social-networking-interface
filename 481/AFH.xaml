@@ -1,0 +1,19 @@
+﻿<Page x:Class="_481.AFH"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_481"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AFH">
+
+    <Grid>
+        <Button Background="#4D4D4D" Foreground="White" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="82,38,0,0" Click="Back_Click"/>
+        <Button Background="#4D4D4D" Foreground="White" Name="JoinBtn" Content="Join" HorizontalAlignment="Left" Margin="157,38,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="150" Margin="82,58,0,0" TextWrapping="Wrap" Text="Art of Health&#xA;AFH&#xA;&#xA;Are you looking for a way to unwind and de-stress?&#xD;&#xA;&#xD;&#xA;Join us to get inspired and have fun in a therapeutic environment! We do painting nights every other Tuesday where you can paint traditionally/digitally, follow prompts we created, or paint whatever you want. We talk, play games, and listen to music so you don't ever get bored during our painting sessions. You don't even have to be an art pro to join! Everyone with different art skills from all faculties is WELCOME. We also fundraise for the Calgary Health Foundation where you can volunteer and sell artworks for a great cause!&#xD;&#xA;&#xD;&#xA;So, what are you waiting for? Come and join us today to improve health through art!&#xA;&#xA;Tags:&#xA;Art, Activism/Service" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,208,0,0" TextWrapping="Wrap" Text="Reviews&#xA;&#xA;Anonymous: Great place for meeting people!&#xA;5/5" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,308,0,0" TextWrapping="Wrap" Text="Related Clubs" VerticalAlignment="Top" Width="650"/>
+        <Button Background="#4D4D4D" Foreground="White" Content="HWC" HorizontalAlignment="Left" Margin="82,328,0,0" VerticalAlignment="Top" Width="101" Height="80" Click="Health_Click"/>
+    </Grid>
+</Page>

@@ -1,0 +1,19 @@
+﻿<Page x:Class="_481.HWC"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_481"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HWC">
+
+    <Grid>
+        <Button Background="#4D4D4D" Foreground="White" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="82,38,0,0" Click="Back_Click"/>
+        <Button Background="#4D4D4D" Foreground="White" Name="JoinBtn" Content="Join" HorizontalAlignment="Left" Margin="157,38,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="150" Margin="82,58,0,0" TextWrapping="Wrap" Text="Health and Wellness Club&#xD;&#xA;HWC&#xA;&#xA;The Health and Wellness Club is associated with the Health and Wellness Lab and the Thrive Centre, both of which are affiliated with the Faculty of Kinesiology. The Health and Wellness Lab does research focusing on cancer and physical activity, and the Thrive Centre is a free exercise facility for cancer patients, survivors, and support persons. The Health and Wellness Club was created to provide awareness about cancer and relevant research, to hold events that raise funds for cancer-related initiatives, and to create a community for people that are/were affected by cancer or want to support people affected by cancer.&#xA;&#xA;Tags:&#xA;Activism/Service" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,208,0,0" TextWrapping="Wrap" Text="Reviews&#xA;&#xA;Anonymous: The fundraiser's are good events!&#xA;5/5" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,308,0,0" TextWrapping="Wrap" Text="Related Clubs" VerticalAlignment="Top" Width="650"/>
+        <Button Background="#4D4D4D" Foreground="White" Content="AFH" HorizontalAlignment="Left" Margin="82,328,0,0" VerticalAlignment="Top" Width="101" Height="80" Click="Art_Click"/>
+    </Grid>
+</Page>

@@ -1,0 +1,408 @@
+C:\Users\lucml\source\repos\481\481\bin\Debug\481.exe.config
+C:\Users\lucml\source\repos\481\481\bin\Debug\481.exe
+C:\Users\lucml\source\repos\481\481\bin\Debug\481.pdb
+C:\Users\lucml\source\repos\481\481\obj\Debug\481.csprojAssemblyReference.cache
+C:\Users\lucml\source\repos\481\481\obj\Debug\MainWindow.g.cs
+C:\Users\lucml\source\repos\481\481\obj\Debug\App.g.cs
+C:\Users\lucml\source\repos\481\481\obj\Debug\481_MarkupCompile.cache
+C:\Users\lucml\source\repos\481\481\obj\Debug\481_MarkupCompile.lref
+C:\Users\lucml\source\repos\481\481\obj\Debug\MainWindow.baml
+C:\Users\lucml\source\repos\481\481\obj\Debug\481.g.resources
+C:\Users\lucml\source\repos\481\481\obj\Debug\_481.Properties.Resources.resources
+C:\Users\lucml\source\repos\481\481\obj\Debug\481.csproj.GenerateResource.cache
+C:\Users\lucml\source\repos\481\481\obj\Debug\481.csproj.CoreCompileInputs.cache
+C:\Users\lucml\source\repos\481\481\obj\Debug\481.exe
+C:\Users\lucml\source\repos\481\481\obj\Debug\481.pdb
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\bin\Debug\481.exe.config
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\bin\Debug\481.exe
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\bin\Debug\481.pdb
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\481.csprojAssemblyReference.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\MainWindow.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\Settings.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\App.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\481_MarkupCompile.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\481_MarkupCompile.lref
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\MainWindow.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\Settings.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\481.g.resources
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\_481.Properties.Resources.resources
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\481.csproj.GenerateResource.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\481.csproj.CoreCompileInputs.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\481.exe
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\settings\CPSC481\481\obj\Debug\481.pdb
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\481.csprojAssemblyReference.cache
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\CBS.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\IDSGN.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\MainWindow.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\InfoSec.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\CPC.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\GDC.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\Settings.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\ClubCenter.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\SSBU.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\UCBC.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\UCCC.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\App.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\481_MarkupCompile.cache
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\481_MarkupCompile.lref
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\481.exe
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\481.pdb
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\bin\Debug\481.exe.config
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\bin\Debug\481.exe
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\bin\Debug\481.pdb
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\MainWindow.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\Settings.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\CBS.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\IDSGN.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\InfoSec.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\CPC.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\GDC.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\ClubCenter.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\SSBU.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\UCBC.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\UCCC.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\481.g.resources
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\_481.Properties.Resources.resources
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\481.csproj.GenerateResource.cache
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\481.csproj.CoreCompileInputs.cache
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\ComputerSearch.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\ComputerSearch.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\AFH.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\AFH.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\MSA.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\MSA.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\DSC.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\DSC.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\HWC.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\HWC.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\bin\Debug\481.exe.config
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\bin\Debug\481.exe
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\bin\Debug\481.pdb
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\AFH.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\CBS.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\ComputerSearch.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\DSC.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\HWC.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\IDSGN.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\MainWindow.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\InfoSec.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\CPC.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\GDC.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\MSA.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\Settings.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\ClubCenter.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\SSBU.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\UCBC.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\UCCC.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\App.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\481_MarkupCompile.cache
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\481_MarkupCompile.lref
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\AFH.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\CBS.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\ComputerSearch.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\DSC.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\HWC.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\IDSGN.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\MainWindow.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\InfoSec.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\CPC.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\GDC.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\MSA.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\Settings.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\ClubCenter.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\SSBU.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\UCBC.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\UCCC.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\481.g.resources
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\_481.Properties.Resources.resources
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\481.csproj.GenerateResource.cache
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\481.csproj.CoreCompileInputs.cache
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\481.exe
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\481.pdb
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\481.csprojAssemblyReference.cache
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\ClubFinder.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\DMLuc.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\DMLucResponse.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\EventFinder.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\GithubEvent.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\ViewClubs.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\ClubFinder.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\DMLuc.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\DMLucResponse.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\EventFinder.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\GithubEvent.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\ViewClubs.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\MostPopularEvents.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\MostPopularEvents.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\ClubFinder.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\DMLuc.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\DMLucResponse.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\EventFinder.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\GithubEvent.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\MostPopularEvents.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\ViewClubs.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\ClubFinder.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\DMLuc.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\DMLucResponse.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\EventFinder.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\GithubEvent.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\MostPopularEvents.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\ViewClubs.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\bin\Debug\481.exe.config
+D:\Uni Work\CPSC481\481\CPSC481\481\bin\Debug\481.exe
+D:\Uni Work\CPSC481\481\CPSC481\481\bin\Debug\481.pdb
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\481.csprojAssemblyReference.cache
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\AFH.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\CBS.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\ClubFinder.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\ComputerSearch.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\DMLuc.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\DMLucResponse.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\DSC.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\EventFinder.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\GithubEvent.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\HWC.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\IDSGN.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\MainWindow.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\InfoSec.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\CPC.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\GDC.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\MSA.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\MostPopularEvents.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\Settings.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\ClubCenter.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\SSBU.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\UCBC.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\UCCC.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\ViewClubs.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\App.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\481_MarkupCompile.cache
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\481_MarkupCompile.lref
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\AFH.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\CBS.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\ClubFinder.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\ComputerSearch.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\DMLuc.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\DMLucResponse.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\DSC.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\EventFinder.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\GithubEvent.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\HWC.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\IDSGN.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\MainWindow.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\InfoSec.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\CPC.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\GDC.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\MSA.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\MostPopularEvents.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\Settings.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\ClubCenter.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\SSBU.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\UCBC.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\UCCC.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\ViewClubs.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\481.g.resources
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\_481.Properties.Resources.resources
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\481.csproj.GenerateResource.cache
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\481.csproj.CoreCompileInputs.cache
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\481.exe
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\481.pdb
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\bin\Debug\481.exe.config
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\bin\Debug\481.exe
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\bin\Debug\481.pdb
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\481.csprojAssemblyReference.cache
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\AFH.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\CBS.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\ClubFinder.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\ComputerSearch.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\DMLuc.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\DMLucResponse.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\DSC.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\EventFinder.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\GithubEvent.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\HWC.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\IDSGN.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\MainWindow.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\InfoSec.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\CPC.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\GDC.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\MSA.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\MostPopularEvents.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\Settings.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\ClubCenter.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\SSBU.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\UCBC.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\UCCC.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\ViewClubs.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\App.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\481_MarkupCompile.cache
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\481_MarkupCompile.lref
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\AFH.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\CBS.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\ClubFinder.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\ComputerSearch.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\DMLuc.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\DMLucResponse.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\DSC.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\EventFinder.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\GithubEvent.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\HWC.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\IDSGN.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\MainWindow.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\InfoSec.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\CPC.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\GDC.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\MSA.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\MostPopularEvents.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\Settings.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\ClubCenter.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\SSBU.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\UCBC.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\UCCC.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\ViewClubs.baml
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\481.g.resources
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\_481.Properties.Resources.resources
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\481.csproj.GenerateResource.cache
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\481.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\481.exe
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\481.pdb
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\CSUS.g.cs
+C:\Users\Nicholas Martell\Documents\GitHub\CPSC481\481\obj\Debug\CSUS.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\Calander.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\CSUS.g.cs
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\Calander.baml
+D:\Uni Work\CPSC481\481\CPSC481\481\obj\Debug\CSUS.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\Calander.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\CSUS.g.cs
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\Calander.baml
+C:\Users\PLDNg\Documents\GitHub\CPSC481\481\obj\Debug\CSUS.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\Calander.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\CSUS.g.cs
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\Calander.baml
+C:\Users\lucml\Desktop\New folder (2)\CPSC481\481\obj\Debug\CSUS.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\bin\Debug\481.exe.config
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\bin\Debug\481.exe
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\bin\Debug\481.pdb
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\481.csprojAssemblyReference.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\AFH.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\Calander.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\CBS.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\ClubFinder.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\ComputerSearch.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\CSUS.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\DMLuc.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\DMLucResponse.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\DSC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\EventFinder.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\GithubEvent.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\HWC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\IDSGN.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\MainWindow.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\InfoSec.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\CPC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\GDC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\MSA.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\MostPopularEvents.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\Settings.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\ClubCenter.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\SSBU.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\UCBC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\UCCC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\ViewClubs.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\App.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\481_MarkupCompile.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\481_MarkupCompile.lref
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\AFH.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\Calander.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\CBS.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\ClubFinder.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\ComputerSearch.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\CSUS.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\DMLuc.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\DMLucResponse.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\DSC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\EventFinder.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\GithubEvent.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\HWC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\IDSGN.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\MainWindow.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\InfoSec.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\CPC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\GDC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\MSA.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\MostPopularEvents.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\Settings.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\ClubCenter.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\SSBU.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\UCBC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\UCCC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\ViewClubs.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\481.g.resources
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\_481.Properties.Resources.resources
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\481.csproj.GenerateResource.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\481.csproj.CoreCompileInputs.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\481.exe
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Dev\CPSC481\481\obj\Debug\481.pdb
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\bin\Debug\481.exe.config
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\bin\Debug\481.exe
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\bin\Debug\481.pdb
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\481.csprojAssemblyReference.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\AFH.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\Calander.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\CBS.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\ClubFinder.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\ComputerSearch.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\CSUS.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\DMLuc.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\DMLucResponse.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\DSC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\EventFinder.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\GithubEvent.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\HWC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\IDSGN.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\MainWindow.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\InfoSec.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\CPC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\GDC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\MSA.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\MostPopularEvents.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\Settings.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\ClubCenter.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\SSBU.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\UCBC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\UCCC.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\ViewClubs.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\App.g.cs
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\481_MarkupCompile.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\481_MarkupCompile.lref
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\AFH.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\Calander.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\CBS.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\ClubFinder.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\ComputerSearch.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\CSUS.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\DMLuc.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\DMLucResponse.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\DSC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\EventFinder.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\GithubEvent.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\HWC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\IDSGN.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\MainWindow.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\InfoSec.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\CPC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\GDC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\MSA.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\MostPopularEvents.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\Settings.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\ClubCenter.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\SSBU.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\UCBC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\UCCC.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\ViewClubs.baml
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\481.g.resources
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\_481.Properties.Resources.resources
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\481.csproj.GenerateResource.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\481.csproj.CoreCompileInputs.cache
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\481.exe
+D:\UofC\Courses\Computer Science\CPSC 481\Project\Part II\Sub4\Final Sub\Portfolio\CPSC481-main\481\obj\Debug\481.pdb

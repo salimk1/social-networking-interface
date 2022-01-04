@@ -1,0 +1,16 @@
+﻿<Page x:Class="_481.SSBU"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_481"
+        mc:Ignorable="d"
+        Title="SSBU" Height="450" Width="800">
+    <Grid>
+        <Button Background="#4D4D4D" Foreground="White" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="82,38,0,0" Click="Back_Click"/>
+        <Button Background="#4D4D4D" Foreground="White" Content="Join" HorizontalAlignment="Left" Margin="157,38,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="150" Margin="82,58,0,0" TextWrapping="Wrap" Text="Smash Bros University&#xD;&#xA;SSBU&#xA;&#xA;Smash Bros University is a club dedicated to the Super Smash Brothers series. The club hosts &quot;smashfests&quot; for members to enjoy the game, as well as tournaments to challenge the skills of our members and encourage friendly competition. Our goal is to provide a fun, friendly, and welcoming environment for all Super Smash Brothers enthusiasts to socialize and improve at a competitive level.&#xA;&#xA;Tags:&#xA;Hobby/Interest, Gaming" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,208,0,0" TextWrapping="Wrap" Text="Reviews&#xA;&#xA;Anonymous: Great club for meeting people!&#xA;5/5" VerticalAlignment="Top" Width="650"/>
+        <TextBox Background="#2D2D2D" Foreground="White" HorizontalAlignment="Left" Height="100" Margin="82,308,0,0" TextWrapping="Wrap" Text="Related Clubs" VerticalAlignment="Top" Width="650"/>
+    </Grid>
+</Page>

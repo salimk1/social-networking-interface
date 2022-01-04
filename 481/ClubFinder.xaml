@@ -1,0 +1,114 @@
+﻿<Page x:Class="_481.ClubFinder"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_481"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+  
+      Title="ClubFinder">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="100" Margin="94,46,0,0" VerticalAlignment="Top" Width="590">
+            <Button Background="#4D4D4D" Foreground="White" Content="Game Design Club" HorizontalAlignment="Left" Margin="0,15,0,-40" VerticalAlignment="Top" Width="265" Height="125" RenderTransformOrigin="0.5,0.5" Click="GDC_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Background="#4D4D4D" Foreground="White" Content="Developer Student Club" HorizontalAlignment="Left" Margin="279,15,0,-40" Width="260">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="100" Margin="84,299,0,0" VerticalAlignment="Top" Width="565">
+            <Button Background="#4D4D4D" Foreground="White" Content="Outdoor Adventurers" HorizontalAlignment="Left" Margin="340,0,0,0" VerticalAlignment="Top" Width="100" Height="100" FontSize="10">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Background="#4D4D4D" Foreground="White" Content="Bouldering Club" HorizontalAlignment="Left" Margin="450,0,0,0" VerticalAlignment="Top" Width="100" Height="100">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Background="#4D4D4D" Foreground="White" Content="STEM Fellowship" HorizontalAlignment="Left" Margin="230,0,0,0" VerticalAlignment="Top" Width="100" Height="100" RenderTransformOrigin="0.4,0.51">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Background="#4D4D4D" Foreground="White" Content="ELITE Calgary" HorizontalAlignment="Left" Margin="120,0,0,0" VerticalAlignment="Top" Width="100" Height="100" RenderTransformOrigin="0.5,0.17">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Background="#4D4D4D" Foreground="White" Content="Society of &#xD;&#xA;Undergraduate &#xD;&#xA;Mathematics" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="100" Margin="10,0,0,0" FontSize="11">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="100" Margin="84,181,0,0" VerticalAlignment="Top" Width="565">
+            <Button Background="#4D4D4D" Foreground="White" Content="Relectric Car Team" HorizontalAlignment="Left" Margin="375,10,0,-10" VerticalAlignment="Top" Width="175" Height="100">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Background="#4D4D4D" Foreground="White" Content="Tech Start UCalgary" HorizontalAlignment="Left" Margin="190,10,0,-10" VerticalAlignment="Top" Width="175" Height="100">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Background="#4D4D4D" Foreground="White" HorizontalAlignment="Left" Width="170" Margin="10,10,0,-10" Content="Business Technology Club">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+
+
+
+        <Rectangle Fill="Gold" HorizontalAlignment="Left" Height="42" Margin="596,60,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Rectangle Fill="Gold" HorizontalAlignment="Left" Height="42" Margin="324,60,0,0" Stroke="Black" VerticalAlignment="Top" Width="30" RenderTransformOrigin="2.137,1.276"/>
+        <Rectangle Fill="Silver" HorizontalAlignment="Left" Height="42" Margin="596,192,0,0" Stroke="Black" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.5,0.476"/>
+        <Rectangle Fill="Silver" HorizontalAlignment="Left" Height="42" Margin="413,192,0,0" Stroke="Black" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.5,0.595"/>
+        <Rectangle Fill="Silver" HorizontalAlignment="Left" Height="42" Margin="230,192,0,0" Stroke="Black" VerticalAlignment="Top" Width="30"/>
+        <Rectangle Fill="BurlyWood" HorizontalAlignment="Left" Height="31" Margin="385,299,0,0" Stroke="Black" VerticalAlignment="Top" Width="25"/>
+        <Rectangle Fill="BurlyWood" HorizontalAlignment="Left" Height="31" Margin="601,299,0,0" Stroke="Black" VerticalAlignment="Top" Width="25"/>
+        <Rectangle Fill="BurlyWood" HorizontalAlignment="Left" Height="31" Margin="495,299,0,0" Stroke="Black" VerticalAlignment="Top" Width="25"/>
+        <Rectangle Fill="BurlyWood" HorizontalAlignment="Left" Height="31" Margin="275,299,0,0" Stroke="Black" VerticalAlignment="Top" Width="25"/>
+        <Rectangle Fill="BurlyWood" HorizontalAlignment="Left" Height="31" Margin="165,299,0,0" Stroke="Black" VerticalAlignment="Top" Width="25"/>
+        <Button Background="#6D6D6D" Foreground="White" Content="View All Clubs" HorizontalAlignment="Left" Margin="531,35,0,0" VerticalAlignment="Top" Width="95" RenderTransformOrigin="0.526,1.1" Click="ViewAllClubs_Button_Click"/>
+        <Rectangle Fill="Transparent" HorizontalAlignment="Left" Height="150" Margin="639,249,0,0" Stroke="Black" VerticalAlignment="Top" Width="112"/>
+        <Rectangle Fill="Silver" HorizontalAlignment="Left" Height="20" Margin="718,319,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.641,1.107"/>
+        <Rectangle Fill="BurlyWood" HorizontalAlignment="Left" Height="20" Margin="718,355,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" RenderTransformOrigin="-0.05,0.5"/>
+        <Rectangle Fill="Gold" HorizontalAlignment="Left" Height="20" Margin="718,286,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.5,0.5"/>
+        <Label Foreground="White" Content="     Legend" HorizontalAlignment="Left" Margin="654,252,0,0" VerticalAlignment="Top" Height="29" Width="84" FontWeight="SemiBold"/>
+        <Label Foreground="White" Content="You May Also&#xD;&#xA;       Like" HorizontalAlignment="Left" Margin="639,344,0,0" VerticalAlignment="Top" Height="43" Width="71" FontSize="10" RenderTransformOrigin="0.093,0.412"/>
+        <Label Foreground="White" Content="Top Picks" HorizontalAlignment="Left" Margin="639,281,0,0" VerticalAlignment="Top" Height="34" Width="54" RenderTransformOrigin="1.64,-1.298"/>
+        <Label Foreground="White" Content="Recommended" HorizontalAlignment="Left" Margin="639,314,0,0" VerticalAlignment="Top" Height="25" Width="84" FontSize="10" RenderTransformOrigin="0.184,0.4"/>
+        <Label Foreground="White" Content="Your Club Center" HorizontalAlignment="Left" Margin="87,31,0,0" VerticalAlignment="Top" Width="173" FontSize="18"/>
+    </Grid>
+</Page>
