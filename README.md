@@ -10,7 +10,7 @@ This repository contains the code for a social networking interface for Universi
 
 ## How to Run
 To run the program execute the following file: 
-+ `481\bin\Debug\481.exe`
++ `481/bin/Debug/481.exe`
 
 ## Acknowledgments 
 We collaborated on this project with a team of five fellow university students. Portions of this project were adapted from external material provided to us by our professor at the University of Calgary.
